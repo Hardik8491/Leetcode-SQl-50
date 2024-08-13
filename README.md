@@ -309,25 +309,6 @@ Welcome to the "Crack SQL Interview in 50 Questions" repository! This collection
 1. **Department Top Three Salaries**
    - [Solution](#)
    - Tags: `Aggregation`
-
-## My Plan
-
-### August
-
-| S  | M  | T  | W  | T  | F  | S  |
-|----|----|----|----|----|----|----|
-| 1  | 2  | 3  | 4  | 5  | 6  | 7  |
-| 8  | 9  | 10 | 11 | 12 | 13 | 14 |
-| 15 | 16 | 17 | 18 | 19 | 20 | 21 |
-| 22 | 23 | 24 | 25 | 26 | 27 | 28 |
-| 29 | 30 | 31 |    |    |    |    |
-
-**Solved 8 problems**
-
-### Weekly Ranking
-
-**You:** Hardik_8491 - Solved 36 problems
-
 ---
 
 Happy coding and good luck with your SQL interview preparations!
